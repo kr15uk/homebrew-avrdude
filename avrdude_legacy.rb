@@ -1,4 +1,4 @@
-class Avrdude < Formula
+class AvrdudeLegacy < Formula
   desc "Atmel AVR MCU programmer"
   homepage "https://savannah.nongnu.org/projects/avrdude/"
   license "GPL-2.0-or-later"
